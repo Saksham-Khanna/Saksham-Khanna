@@ -17,7 +17,7 @@
 - **Frameworks & Tools:**  
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-  ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 - **Learning & Exploring:**  
@@ -26,13 +26,22 @@
 
 ---
 
+## 🛠️ Experience:
+
+**Web Development Intern** | *CodeAlpha* (June 2025 – July 2025)  
+- Built dynamic, data-driven web applications  
+- Implemented **user authentication** and core **CRUD operations**  
+- Utilized **Node.js, Express.js, JavaScript, and MySQL** to develop and maintain backend services  
+
+---
+
 ## 🛠️ Projects:
 
 - **Movie Recommendation System** 🎬  
-  Built a content-based recommendation engine using **TF-IDF & cosine similarity**, with data preprocessing and EDA.  
+  Developed a **content-based recommendation engine** using **TF-IDF & cosine similarity**, with complete data preprocessing and exploratory analysis.  
 
 - **Applicant Tracking System (ATS) with Gemini LLM** 🤖  
-  Designed an **AI-powered resume assistant** using **Streamlit + Generative AI**, enabling PDF parsing and tailored improvement suggestions.  
+  Designed an **AI-powered resume assistant** using **Streamlit + Generative AI**, enabling PDF parsing and tailored resume improvement suggestions.  
 
 ---
 
@@ -50,4 +59,5 @@
 - Email: khanna.saksham2918@gmail.com  
 
 ---
+
 ✨ *Always eager to learn, build, and solve real-world challenges!*  
