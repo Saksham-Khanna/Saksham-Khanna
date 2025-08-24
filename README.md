@@ -1,7 +1,7 @@
 # Hi! 👋 I'm Sakshamm Khanna  
 
 🎓 **Pre-final Year CSE Student (AI-ML Specialization)** at Chandigarh University  
-💡 Passionate about **AI, Backend Development, and Scalable Applications**  
+💡 Passionate about **AI, Full-Stack Development, and building scalable Applications**  
 🚀 Aspiring **Software Developer | AI-ML Enthusiast | Tech Explorer**  
 
 ---
