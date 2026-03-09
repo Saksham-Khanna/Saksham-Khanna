@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Sakshamm Khanna  
+# Hi! 👋 I'm Sakshamm Vipul Khanna  
 
 🎓 **Pre-final Year CSE Student (AI-ML Specialization)** at Chandigarh University  
 💡 Passionate about **AI, Full-Stack Development, and building scalable Applications**  
