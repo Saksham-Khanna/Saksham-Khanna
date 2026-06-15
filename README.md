@@ -2,7 +2,7 @@
 
 🎓 **Pre-final Year CSE Student (AI-ML Specialization)** at Chandigarh University  
 💡 Passionate about **AI, Full-Stack Development, and building scalable Applications**  
-🚀 Aspiring **Software Developer | AI-ML Enthusiast | Tech Explorer**  
+🚀 Aspiring **Software & AI-ML Developer**  
 
 ---
 
