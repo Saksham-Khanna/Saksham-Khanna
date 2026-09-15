@@ -42,7 +42,7 @@ Multi-agent research pipeline built with LangGraph — 6 specialized nodes (Plan
 ---
 
 ### 💬 EzChat — Real-Time Chat Application
-**[GitHub](https://ezzchat.onrender.com/) · [Live Demo](https://ezzchat.onrender.com/)**  
+**[GitHub](https://github.com/Saksham-Khanna/ezchat) · [Live Demo](https://ezzchat.onrender.com/)**  
 Full-stack messaging platform with P2P voice/video calling, deployed on Render and tested with 20+ users.
 - JWT auth + AES-256 encrypted message storage across MongoDB clusters
 - Glassmorphic UI with Framer Motion + Cloudinary media sharing & read receipts  
