@@ -21,6 +21,26 @@
 
 ## 🚀 Featured Projects
 
+### 🤖 Helix — Terminal Coding Agent & VS Code Extension
+**[GitHub](https://github.com/Saksham-Khanna/helix) · [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=Sakshamm-Khanna.helix-terminal-ai)**  
+Terminal coding agent built from scratch — zero agent-framework dependencies, multi-provider LLM support (Gemini, Groq, local Ollama).
+- 10-tool execution loop (read/edit/grep/run_shell etc.) with Tree-sitter AST-aware semantic code search via ChromaDB + sentence-transformers
+- Sandboxed shell execution in ephemeral Docker containers (dropped capabilities, read-only filesystem, no network) — validated with a 58-test suite
+- Published as a VS Code extension alongside the CLI  
+`Python` `TypeScript` `Gemini` `Groq` `Ollama` `ChromaDB` `Tree-sitter` `Docker` `FastAPI`
+
+---
+
+### 🔎 NEXUS Research — Multi-Agent AI Research Assistant
+**[GitHub](https://github.com/Saksham-Khanna/nexus-agent) · [Live Demo](https://nexus-agent-pearl.vercel.app/)**  
+Multi-agent research pipeline built with LangGraph — 6 specialized nodes (Planner → Researcher → Scraper → Summarizer → Reflector → Writer) with a self-correcting reflection loop.
+- Autonomously re-researches until a quality threshold is met, instead of stopping at the first pass
+- Lightweight RAG in the scraper node using BM25 Okapi ranking to keep LLM context focused and token-efficient
+- FastAPI backend with SSE streaming for real-time report generation; Groq (Llama-3.3-70B) + Tavily API with async parallel scraping  
+`Python` `LangGraph` `FastAPI` `React` `Groq` `BM25 RAG`
+
+---
+
 ### 💬 EzChat — Real-Time Chat Application
 **[GitHub](https://ezzchat.onrender.com/) · [Live Demo](https://ezzchat.onrender.com/)**  
 Full-stack messaging platform with P2P voice/video calling, deployed on Render and tested with 20+ users.
@@ -54,6 +74,7 @@ ML ensemble trained on 10,000+ IPL records for match outcome prediction & squad 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
 **Frontend**  
@@ -76,6 +97,7 @@ ML ensemble trained on 10,000+ IPL records for match outcome prediction & squad 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **AI/ML**  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
